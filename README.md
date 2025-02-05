@@ -9,6 +9,7 @@ Image Processing: The system preprocesses images of plant leaves by resizing, no
 Deep Learning Model: A Convolutional Neural Network (CNN) is trained on labeled images to classify plant diseases accurately.
 Prediction & Output: Users can upload an image, and the model will provide a diagnosis along with the disease name and confidence score.
 Web-Based Application (Optional): A simple web interface allows farmers or researchers to upload images for disease detection.
+
 🎯 Applications
 ✅ Agriculture & Farming: Helps farmers detect plant diseases early to prevent crop loss.
 ✅ Research & Development: Useful for agricultural scientists studying plant health.
